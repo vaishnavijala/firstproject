@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" ?>
+<Project Title="[guidance]">
+	<Page Title="Home">
+		<Page Title="Sign Up"/>
+		<Page Title="Sign In"/>
+		<Folder Title="[TUTOR]">
+			<Page Title="Profile"/>
+			<Page Title="Forum">
+				<Page Title="TUTOR">
+					<Page Title="TOPPERS"/>
+					<Page Title="GRE"/>
+					<Page Title="GRE EXAM DET"/>
+					<Page Title="DAI"/>
+					<Page Title="TUT UP"/>
+					<Page Title="edit tutor"/>
+				</Page>
+				<Page Title="STUDENT">
+					<Page Title="COURSES">
+						<Page Title="gre det"/>
+						<Page Title="GATE DET"/>
+						<Page Title="CAT DET"/>
+						<Page Title="GRE COURSE">
+							<Page Title="SELECT JOHN">
+								<Page Title="VERB">
+									<Page Title="VERB EXAM"/>
+									<Page Title="finish"/>
+								</Page>
+								<Page Title="APTITUDE">
+									<Page Title="aptitude exam"/>
+									<Page Title="FINISH"/>
+								</Page>
+								<Page Title="RE">
+									<Page Title="re"/>
+									<Page Title="FINISH"/>
+								</Page>
+							</Page>
+						</Page>
+					</Page>
+					<Page Title="Daily contest"/>
+					<Page Title="UP"/>
+					<Page Title="STUDENT FORUM">
+						<Page Title="FRIENDS"/>
+					</Page>
+					<Page Title="ST">
+						<Page Title="WRITE STUD"/>
+						<Page Title="INBOX STUD"/>
+						<Page Title="STU TUTOR"/>
+						<Page Title="SENT BOX"/>
+						<Page Title="DOUBT ON GRE STU"/>
+						<Page Title="REPLY TO GRE STU"/>
+					</Page>
+					<Page Title="STU EDIT PROFILE"/>
+					<Page Title="STUDENT EDIT PROFILE"/>
+				</Page>
+				<Page Title="MAILS">
+					<Page Title="WRITE"/>
+					<Page Title="INBOX"/>
+					<Page Title="Reply To GRE"/>
+					<Page Title="SENT"/>
+					<Page Title="DOUBT ON GRE"/>
+				</Page>
+			</Page>
+			<Page Title="LEARNERS"/>
+			<Page Title="WELCOM TO STUDENT"/>
+		</Folder>
+		<Page Title="WELCOME TO TUTOR"/>
+	</Page>
+</Project>
